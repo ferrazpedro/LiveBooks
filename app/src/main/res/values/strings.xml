@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LiveBooks</string>
+    <string name="botaoComprar">Comprar Livros</string>
+    <string name="creditoTotal">R$100,00</string>
+    <string name="saldo">Saldo:</string>
+    <string name="colecaoTxtVazia">Você não tem livros na sua coleção!</string>
+    <string name="title">title</string>
+    <string name="writer">writer</string>
+    <string name="mainTxtPrice">Preço:</string>
+    <string name="price">R$0,00</string>
+    <string name="comprar">Comprar</string>
+</resources>
